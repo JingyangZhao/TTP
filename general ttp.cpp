@@ -263,7 +263,7 @@ int main()
 	// 		{
 	// 			int l = j;
 	// 			CONS(sigma, n, l, k, table, 1);
-	// 			check(n, k, l, table);
+	// 			check(n, k, table);
 	// 		}
 	// 	}
 	// }
