@@ -243,7 +243,7 @@ int main()
 	check(n, k, table);
 
 
-	// for (int n = 4; n <= 40; n++, n++)
+	// for (int n = 4; n <= 100; n++, n++)
 	// {
 
 	// 	cout << n << endl;
